@@ -10,9 +10,9 @@
         "poolserver",
         "equihash"
     ],
-    "homepage": "https://github.com/veruscoin/s-nomp",
+    "homepage": "https://github.com/Exiliord/s-nomp.git",
     "bugs": {
-        "url": "https://github.com/veruscoin/s-nomp/issues"
+        "url": "https://github.com/Exiliord/s-nomp.git/issues"
     },
     "license": "MIT",
     "author": "s-nomp dev team",
@@ -30,7 +30,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/s-nomp/s-nomp.git"
+        "url": "https://github.com/Exiliord/s-nomp.git"
     },
     "dependencies": {
         "async": "^2.6.1",
